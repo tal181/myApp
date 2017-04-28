@@ -1,0 +1,14 @@
+download mongo :
+https://www.mongodb.com/dr/fastdl.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.4.3-signed.msi/download
+
+mongo gui
+https://www.mongodb.com/download-center?filter=enterprise#compass
+mongo db compass
+https://docs.mongodb.com/getting-started/shell/tutorial/install-mongodb-on-windows/
+
+tables :
+
+categories
+countries
+locationCategoryRating
+users
